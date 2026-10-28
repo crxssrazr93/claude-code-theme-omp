@@ -1,4 +1,4 @@
-# claude-code-omp
+# claude-code-theme-omp
 
 Claude Code visual identity for [omp](https://omp.sh): six CC palette themes plus a small
 chrome extension for the CC turn footer.
