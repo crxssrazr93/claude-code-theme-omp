@@ -1,0 +1,8 @@
+{
+  "name": "omp-claude-code-chrome",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Claude Code chrome for omp: CC turn footer with past-tense verb + duration",
+  "omp": { "extensions": ["./index.ts"] }
+}
