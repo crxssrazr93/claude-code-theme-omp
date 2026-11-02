@@ -9,6 +9,19 @@ Themes are ported from Claude Code's own theme tokens (`claude`, `claudeShimmer`
 onto omp's token vocabulary, with the CC spinner frame set (`· ✢ ✳ ✶ ✻ ✽`) and the CC
 past-tense turn footer (`✻ Worked for 12s`).
 
+## Screenshots
+
+Dark (`claude-code-dark`):
+
+![claude-code-dark in omp](screenshots/omp-claude-code-dark.png)
+
+Light (`claude-code-light`):
+
+![claude-code-light in omp](screenshots/omp-claude-code-light.png)
+
+Both captured from a real omp session: user prompt band, flat CC tool row, `✻ <Verb> for Ns`
+turn footer, dim status line.
+
 ## Install
 
 ```sh
